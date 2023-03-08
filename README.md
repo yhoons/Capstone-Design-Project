@@ -13,7 +13,7 @@ Advanced Blind Assistance System (It's ADAS applications mortif)
 
 ---------------------
 
-<img width="858" alt="image" src="https://user-images.githubusercontent.com/79200729/219953520-a60ec34d-3c52-4b29-a0ed-a278a3e82c3d.png">
+<img width="858" alt="image" src="<img width="858" alt="step drawio" src="https://user-images.githubusercontent.com/79200729/223771090-4d3304b6-d423-4106-84e3-f90e2f378ca3.png">">
 
 
 
